@@ -1,17 +1,19 @@
-import Navbar from "../components/Navbar";
 import Hero from "../components/Hero";
 import ServicesPreview from "../components/ServicesPreview";
 import GalleryPreview from "../components/GalleryPreview";
-import Footer from "../components/Footer";
+import WhyChooseUs from "../components/WhyChooseUs";
+import Testimonials from "../components/Testimonials";
+import CallToAction from "../components/CallToAction";
 
 function Home() {
   return (
     <>
-      <Navbar />
       <Hero />
       <ServicesPreview />
       <GalleryPreview />
-      <Footer />
+      <WhyChooseUs />
+      <Testimonials />
+      <CallToAction />
     </>
   );
 }

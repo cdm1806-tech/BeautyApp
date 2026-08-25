@@ -24,7 +24,7 @@ function Hero() {
 
           <div className="mt-10 flex gap-5 flex-wrap">
             <a
-              href="https://wa.me/2547XXXXXXXX"
+              href="/booking"
               className="bg-[#1F1F1F] text-white px-8 py-4 rounded-lg hover:opacity-90 transition"
             >
               Book Appointment
