@@ -1,4 +1,4 @@
-import softGlam from "../assets/gallery/soft_glam.jpg";
+import softGlam from "../assets/gallery/soft_glam.jpeg";
 
 function Hero() {
   return (
@@ -6,7 +6,6 @@ function Hero() {
       <div className="max-w-7xl mx-auto px-6 grid md:grid-cols-2 gap-12 items-center">
 
         <div>
-
           <p className="uppercase tracking-[6px] text-[#C8A97E] font-semibold">
             Beauty, Curated for You.
           </p>
@@ -24,9 +23,8 @@ function Hero() {
           </p>
 
           <div className="mt-10 flex gap-5 flex-wrap">
-
             <a
-              href="https://wa.me/254793864327"
+              href="https://wa.me/2547XXXXXXXX"
               className="bg-[#1F1F1F] text-white px-8 py-4 rounded-lg hover:opacity-90 transition"
             >
               Book Appointment
@@ -38,9 +36,7 @@ function Hero() {
             >
               Explore Our Work
             </a>
-
           </div>
-
         </div>
 
         <div className="flex justify-center">
